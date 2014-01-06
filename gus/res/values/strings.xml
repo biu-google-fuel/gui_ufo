@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">gus</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">before map</string>
+    <color name="bg_color">#ffffff</color>
+    <color name="text_color">#f12454</color>
+	<string name="text">any_text</string>
+</resources>
