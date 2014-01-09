@@ -7,4 +7,6 @@
     <color name="bg_color">#ffffff</color>
     <color name="text_color">#f12454</color>
 	<string name="text">any_text</string>
+	<string name="Station_btn">Get gus station</string>
+	<string name="mode_button">Israel mode</string>
 </resources>
